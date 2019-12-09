@@ -1,2 +1,1 @@
-# Hellow-world
-first eg
+我在javbus里面看到了一篇用python写的网络爬虫程序。它能从javbus等网站获取元数据和相关图片。但是它有一些瑕疵，我想自学python对它做一些改变，使它用起来更方便。
